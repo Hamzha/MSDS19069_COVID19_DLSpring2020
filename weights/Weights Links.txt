@@ -1,0 +1,4 @@
+vgg16_FC_Only.pth	-> https://drive.google.com/open?id=1jLPHp17TLi8pLNO2BIQ4uVWHyl9ALmvf
+res18_FC_Only.pth	-> https://drive.google.com/open?id=1CUqzvAwPN48o52mqQVoSsuERyFu5VNly
+vgg16_FC_Entire.pth	-> https://drive.google.com/open?id=1gr_t7HAJDxnt0qzARzlydxRpox_f1_YZ
+res18_FC_Entire.pth	-> https://drive.google.com/open?id=1ZNlbbY_ru-OI0OvR4YbL_dnbn-zAzbKA
