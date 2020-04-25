@@ -10,7 +10,9 @@ Accuracy for VGG-16 with custom layers at the end is 59%
 Accuracy for ResNet-18 with custom layers at the end is 58%
 
 Accuracy fow VGG-16 with few Convolution layers freeze is 59%
+
 Accuracy fow ResNet-18 with few Convolution layers freeze is 58%
 
 Accuracy fow VGG-16 accuracy is 59%
+
 Accuracy fow ResNet-18 accuracy is 70%
