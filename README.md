@@ -57,8 +57,20 @@ https://drive.google.com/open?id=1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 
 Models: https://drive.google.com/open?id=1OqMepcZ-vVqftYiM-_x3glDTCmr6I7V7
 
-Dataset : https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing
+Dataset: https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing
 
-VGG Without Focal Loss:
+### VGG Without Focal Loss
 
+![](graphs/VGG%20Simple%20Matrices.png)
 
+### VGG with Focal Loss
+
+![](graphs/VGG%20Focal%20Loss%20Matrices.png)
+
+### ResNet without Focal Loss
+
+![](graphs/ResNet%20Simple%20Matrices.png)
+
+### ResNet without Focal Loss
+
+![](graphs/ResNet%20Focal%20Loss%20Matrices.png)
