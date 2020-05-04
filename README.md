@@ -1,6 +1,8 @@
 # MSDS19069_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
+# Part 1
+
 ## Data set
 https://drive.google.com/open?id=1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 
@@ -51,3 +53,4 @@ https://drive.google.com/open?id=1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 #### test
 ![](graphs/ResNet-18%20full%20test.png)
 
+## Part 2
