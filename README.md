@@ -54,3 +54,11 @@ https://drive.google.com/open?id=1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 ![](graphs/ResNet-18%20full%20test.png)
 
 ## Part 2
+
+Models: https://drive.google.com/open?id=1OqMepcZ-vVqftYiM-_x3glDTCmr6I7V7
+
+Dataset : https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing
+
+VGG Without Focal Loss:
+
+
